@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+pandas
+numpy
+scikit-surprise
+sqlalchemy
+pymysql
+joblib
+pytest
+python-dotenv
+statsmodels
